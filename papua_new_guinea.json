@@ -8,6 +8,7 @@
         "coordinates": [147.171030, -9.449369]
       },
       "properties": {
+	  "marker-color": "#ff8888",
         "Name": "Port Moresby",
         "Country": "Papua New Guinea",
         "Accomodation": "Gateway Hotel"
@@ -21,6 +22,7 @@
         "coordinates": [143.167509,-5.964682]
       },
       "properties": {
+	  "marker-color": "#ff8888",
         "Name": "Tari",
         "Country": "Papua New Guinea",
         "Accomodation": "Ambua Lodge"
@@ -86,6 +88,7 @@
         "coordinates": [141.901269,-4.259690]
       },
       "properties": {
+	  "marker-color": "#ff8888",
         "Name": "Painu",
         "Country": "Papua New Guinea"
       }
@@ -97,6 +100,7 @@
         "coordinates": [144.529858,-3.877568]
       },
       "properties": {
+	  "marker-color": "#ff8888",
         "name": "Broken Water Bay",
         "country": "Papua New Guinea"
       }
@@ -108,6 +112,7 @@
         "coordinates": [143.669156,-3.584095]
       },
       "properties": {
+	  "marker-color": "#ff8888",
         "Name": "Wewak",
         "Country": "Papua New Guinea"
       }
@@ -132,6 +137,7 @@
         "coordinates": [145.784613,-5.220835]
       },
       "properties": {
+	  "marker-color": "#ff8888",
         "Name": "Madang",
         "Country": "Papua New Guinea",
         "Accomodation": "Madang Resort"
