@@ -35,6 +35,7 @@
         "coordinates": [144.242077,-5.858096]
       },
       "properties": {
+	   "marker-color": "#ff8888",
         "Name": "Mt Hagen",
         "Country": "Papua New Guinea",
         "Accomodation": "Highlander Hotel"
